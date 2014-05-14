@@ -1,9 +1,9 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "An overview of the dutch school in Zuid Florida."
+tags: [Dutch, School, Florida,]
 image:
-  feature: texture-feature-01.jpg
+  feature: background.png
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---

@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website.
+title:            De Oranjebloesem - De Nederlandse School in Zuid Florida
+description:      De Oranjebloesem - De Nederlandse School in Zuid Florida
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Oranjebloesem
+  avatar:         logo.jpg
+  bio:            "De Nederlandse school in Zuid Florida"
+  email:          deoranjebloesem@yahoo.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
-  facebook:
+  facebook:       de.oranjebloesem
   github:
   stackoverflow:
   linkedin:
@@ -35,14 +35,16 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
+  - title: Nieuws
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: De School
+    url: /school/
+  - title: Voor Ouders
+    url: /voor-ouders/
+  - title: Sponsors
+    url: /sponsors/
+  - title: NOB
+    url: http://www.stichtingnob.nl/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

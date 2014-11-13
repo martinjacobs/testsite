@@ -1,7 +1,7 @@
-title:            De Oranjebloesem - De Nederlandse School in Zuid Florida
+title:            De Oranjebloesem
 description:      De Oranjebloesem - De Nederlandse School in Zuid Florida
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              
 disqus_shortname:
 
 # Owner/author information
@@ -27,7 +27,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-56172914-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -36,16 +36,23 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Nieuws
-    url: /posts/
+    url: /nieuws/
   - title: De School
     url: /school/
   - title: Voor Ouders
     url: /voor-ouders/
   - title: Sponsors
     url: /sponsors/
+  - title: Aanmelden
+    url: /aanmelden/
+  - title: Leerlingen
+    url: /leerlingen/
   - title: NOB
     url: http://www.stichtingnob.nl/
     external: true
+
+mapping:
+    provider: google_static
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -60,7 +67,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..4
   use_coderay: false
 
   coderay:

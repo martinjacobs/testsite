@@ -1,7 +1,9 @@
 ---
 layout: post-index
-permalink: /posts/
-title: All Posts
-tagline: A List of Posts
+permalink: /nieuws/
+title: Laatste Nieuws
+tagline: het laatste nieuws
 tags: [blog]
+image:
+  feature: background1.jpg
 ---

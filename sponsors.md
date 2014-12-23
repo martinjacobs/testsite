@@ -11,41 +11,63 @@ image:
 
 ---
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Inhoud</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 #Bedrijven:
 
-###Cum Laude
+####Cum Laude
 
-####International Shipping and Purchasing Agent,Yoli Wheeler 
-<a href="http://www.shopussa.com/"><img src="http://www.shopussa.com/wp-content/themes/shopussa_12152010/style/images/logo.png"></a>
+* [De Orde van de Prince](http://www.ovdp.net/)	
 
- 
-####Dutch Goodies, Delicious Treats & Sweets,Kees Meijaard
+* [Galaxy 1 Communications](https://www.g1sat.com/)
 
-<a href="http://dutchgoodies.biz/">Dutch Goodies Website</a>  
-  
+* Go Florida Investments
+
+* [Voorn Croquetes](http://voorncroquettes.com/)
+
+* [ABB Optical](http://www.abbconcise.com/)
+
+* [International Shipping and Purchasing Agent,Yoli Wheeler](http://www.shopussa.com)
+
+* [Dutch Goodies, Delicious Treats & Sweets,Kees Meijaard](http://dutchgoodies.biz/)
+
 #Persoonlijke sponsors:
 
-###Gold Star
+####Gold Star
 
-#####Mevrouw Monique Felicia
+* Mevrouw Monique Felicia
 
-###Bronze Star
+####Bronze Star
 
-#####Familie Tessel, Nederland
+* Familie Tessel, Nederland
 
-#####Familie Ariens, Nederland
+* Familie Ariens, Nederland
 
-#####De heer Arend C. Gouw, Consul van Nederland
- 
+* De heer Arend C. Gouw, Consul van Nederland
+
+* Familie Brollman
+
+* Familie Maes
+
 ###Lesmateriaal/Boeken:
 
-#####NTC School Bethesda
+* ['t Klokhuis New York](http://www.klokhuis.com/)
 
-#####Basisschool Sint Jozef Niftrik
+* NTC School Bethesda
 
-#####NASF, the Dutchclub
+* Basisschool Sint Jozef Niftrik
+
+* [Netherlands Association of South Florida](http://www.dutchclubsouthflorida.com/)
  
  
 ###Logo's:
 
-#####Mevrouw Anke Janssen, Groesbeek
+* Mevrouw Anke Janssen, Groesbeek

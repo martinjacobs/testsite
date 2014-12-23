@@ -11,19 +11,9 @@ image:
 ---
 
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3 >Inhoud</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
 
-##Aanmelden of vragen
+In de onderstaande folders is het huiswerk en meer informatie over de Oranjebloesem te vinden.
 
-Mocht u geinteresseerd zijn in de oranjebloesem, neem dan gerust contact met ons op. U kunt ons bereiken via de contact informatie op deze site, of vul onderstaand formulier in en stuur het op. Wij nemen dan zo spoedig mogelijk contact met u op.
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <script src="https://sdk.amazonaws.com/js/aws-sdk-2.0.25.min.js"></script>
@@ -36,7 +26,7 @@ Mocht u geinteresseerd zijn in de oranjebloesem, neem dan gerust contact met ons
         <div id="subheader">
             <div id="status"></div>
         </div>
-       <!-- <div id="breadcrumb" class="breadcrumb"></div> -->
+        <div id="breadcrumb" class="breadcrumb"></div> 
     </div>
     <div id="contents">
         <div id="elements">

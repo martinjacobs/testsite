@@ -1,31 +1,18 @@
 ---
 layout: page
 permalink: /aanmelden/
-title: Meer informatie voor het aanmelden
+title: Aanmelden of vragen?
 tagline: 
 tags: 
 modified: 10-10-2014
 comments: false
 image:
-  feature: canal.jpg
+  feature: windmill.jpg
 ---
 
+Mocht u vragen hebben of geinteresseerd zijn in de Oranjebloesem, neem dan gerust contact met ons op. U kunt ons bereiken via de contact informatie op deze site, of vul onderstaand formulier in en stuur het op. Wij nemen dan zo spoedig mogelijk contact met u op.
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3 >Inhoud</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
-##Aanmelden of vragen
-
-Mocht u geinteresseerd zijn in de oranjebloesem, neem dan gerust contact met ons op. U kunt ons bereiken via de contact informatie op deze site, of vul onderstaand formulier in en stuur het op. Wij nemen dan zo spoedig mogelijk contact met u op.
-
-<form action="//forms.brace.io/oranjebloesem.florida@gmail.com" method="POST">
+<form action="//formspree.io/oranjebloesem.florida@gmail.com" method="POST">
 	<div class="form-group">
             <label for="exampleInputName">Naam</label>
             <input name="name" type="name"  id="exampleInputName" placeholder="Uw naam">
@@ -44,7 +31,8 @@ Mocht u geinteresseerd zijn in de oranjebloesem, neem dan gerust contact met ons
             <textarea name="message" rows="5"></textarea>    
         </div>
     <input type="hidden" name="_subject" value="New submission from oranjebloesem site!" />
-    <input type="hidden" name="_next" value="//oranjebloesem.s3-website-us-east-1.amazonaws.com/bedankt/" />
+    <input type="hidden" name="_next" value="//www.deoranjebloesem.org/bedankt/" />
+    <input type="hidden" name="_cc" value="deoranjebloesem@yahoo.com" />
     
       <button type="submit" class="btn btn-primary">Submit</button>
 </form>

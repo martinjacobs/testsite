@@ -27,25 +27,16 @@ mapping:
 </section><!-- /#table-of-contents -->
 
 
+Op de Oranjebloesem geven we les in de Nederlandse en Belgische Taal en Cultuur aan kinderen in de leeftijd van 4 t/m 14 jaar, het zogenoemde basisonderwijs. Wij streven ernaar een vaste plaats als promotor van Nederlandse taal en cultuur te verwerven binnen de Nederlandstalige gemeenschap in Zuid-Florida.  
 
-De Oranjebloesem streeft ernaar een vaste plaats als promotor van Nederlandse taal en cultuur te verwerven binnen de Nederlandstalige gemeenschap in Zuid-Florida. 
-
-Een gemotiveerd team van leerkrachten zal voorzien in hoogwaardige lessen voor primair onderwijs (4 tot 14 jaar), met het oog op een eventuele terugkeer in het onderwijs in Nederland of België. 
-
-De school zal hierbij vanzelfsprekend aansluiten op de kerndoelen van het Nederlands onderwijs
+Een gemotiveerd team van leerkrachten voorziet in hoogwaardige lessen voor primair onderwijs (4 tot 14 jaar), met het oog op een eventuele terugkeer in het onderwijs in Nederland of België. De school zal hierbij vanzelfsprekend aansluiten op de kerndoelen van het Nederlands onderwijs
  
 ##Visie
 
-* De Oranjebloesem streeft naar aansluiting bij het NOB onderwijs voor de richting 1 en 2.
 * De Oranjebloesem wil de leerlingen een aangenaam en veilig leerklimaat aanbieden.
-* Het onderwijsteam zal juiste taalmethodes selecteren, die aansluiten op de
-kerndoelen alsmede met het oog op een correcte balans tussen groepsactiviteiten
-en zelfstandig werken.
-* De Oranjebloesem wenst een afdeling van de school op een tweede locatie in Miami te openen
-﻿
- 
-######Het klimaat op de school
- 
+* Het onderwijsteam zal juiste taalmethodes selecteren, die aansluiten op de kerndoelen alsmede met het oog op een correcte balans tussen groepsactiviteiten en zelfstandig werken.  
+
+
 Wij beseffen dat de sfeer waarin een kind opgroeit van groot belang is om een volwaardig mens te worden. Het is daarom belangrijk dat de leerlingen bij ons onderwijs kunnen volgen in een vriendelijke en veilige omgeving, waar orde en regelmaat een rol spelen. Pas als een kind zich veilig voelt, kan het zich ontwikkelen. 
 
 ## Locatie
@@ -55,40 +46,57 @@ Davie, FL 33328
 {% render_map %}
 
 ## Lestijden
-De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm.
+De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm.  
 
-De school volgt de vakantiekalender van Broward County.
+
+De school volgt de vakantiekalender van Broward County.  
+
 
 Er zijn geen lessen op de volgende dagen:
  
-	24 november: weekend van Thanksgiving
-	29 december: kerstvakantie
-	30 maart: Springbreak
-	25 mei: weekend Memorial Day
- 
-De laatste lesdag is gepland op **14 juni**.
+	30 november: weekend van Thanksgiving
+	28 december: kerstvakantie
+	29 maart: Springbreak
+	24 mei: weekend Memorial Day
+  
+  
+De laatste lesdag is gepland op **14 juni**.  
+
 
 Ook zal er een aantal middagen een cultuurmiddag georganiseerd worden. Voorlopig zijn die vastgesteld op: 
  
 	5 oktober: kinderboekenweek
-	7 december: sinterklaas
-	februari/maart: winteraktiviteit
-	26 april: koningsdag
+	6 december: sinterklaas
+	februari/maart: winteractiviteit
+	26 april: koningsdag
+    14 juni: laatste schooldag
 
 ## De onderwijsgroepen
-De activiteiten voor de leerlingen zijn gebaseerd op de kerndoelen voor Nederlandse taal zoals die zijn opgesteld door het Nederlandse ministerie van Onderwijs, Cultuur en Wetenschappen. De kerndoelen zijn streefdoelen voor wat leerlingen moeten kennen en kunnen aan het eind van de basisschool.
+De activiteiten voor de leerlingen zijn gebaseerd op de kerndoelen voor Nederlandse taal zoals die zijn opgesteld door het Nederlandse ministerie van Onderwijs, Cultuur en Wetenschappen. De kerndoelen zijn streefdoelen voor wat leerlingen moeten kennen en kunnen aan het eind van de basisschool.  
 
-De lessen worden vormgegeven op basis van thematisch onderwijs. Elke groepsleider zal op grond van het niveau de lessen invullen. Gedurende het jaar zullen er verschillende thema’s een aantal weken tijdens de lessen aan bod komen.
+De lessen worden vormgegeven op basis van thematisch onderwijs. Elke groepsleider zal op grond van het niveau de lessen invullen. Gedurende het jaar zullen er verschillende thema’s een aantal weken tijdens de lessen aan bod komen.  
+
  
-Een aantal thema’s zal in alle klassen aan de orde komen, zoals seizoensgebonden thema’s, Sinterklaas, Koninginnedag en andere nationale feestdagen. De groepsleider van uw kind zal u op de hoogte houden van het actuele thema, zodat u er thuis ook aandacht aan kunt besteden.
- 
+Een aantal thema’s zal in alle klassen aan de orde komen, zoals seizoensgebonden thema’s, Sinterklaas, Koninginnedag en andere nationale feestdagen. De groepsleider van uw kind zal u op de hoogte houden van het actuele thema, zodat u er thuis ook aandacht aan kunt besteden.  
+
+Wij proberen het onderwijs zo in te richten, dat er rekening wordt gehouden met de diversiteit en taalniveaus van de kinderen. De richtingen die we in onze school onderscheiden zijn:
+
+* **Richting 1:** Is gericht op directe aansluiting bij onderwijs in Nederland en moet een terugkeer in Nederlands onderwijs faciliteren. 
+
+
+* **Richting 2:** Doel is het zo goed mogelijk op peil houden van de Nederlandse taal, met het oog op een eventuele terugkeer naar Nederland.
+
+* **Richting 3:** Deze leerlingen leren Nederlands als vreemde taal. 
+
+    
+    
 De school heeft op dit moment 3 groepen:
 
-* Groep 1 en 2 basisonderwijs
-* Groep 3 basisonderwijs
-* Groep 4 t/m 6 basisonderwijs
+* Groep 1 en 2, kinderen, 4-6 jaar
+* Groep Hotel Hallo, richting 2 & 3 kinderen
+* Groep 4 t/m 8: Nederlandstalige kinderen, 7-14 jaar 
   
-In de schoolgids en op deze website (onder laatste nieuws) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
+In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/schooljaar-2014-2015-weer-begonnen/) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
 
 
 ##Het onderwijsteam
@@ -97,29 +105,57 @@ In de schoolgids en op deze website (onder laatste nieuws) kunt u meer informati
 |:--------|:-------:|--------:|--------:|
 | Marielle Mubarak   | groep 1/2   | 4-6 jaar | Groepsleider  |
 |----
-| Virgilia Aiken   | groep richting 2 & 3   | 6-12 jaar | Groepsleider  |
+| Virgilia Aiken   | groep Hotel Hallo, richting 2 & 3   | 6-12 jaar | Groepsleider  |
 |----
-| Lieke Heye   | groep richting 2 & 3   | 6-12 jaar | Assistente  |
+| Lieke Heye   | groep Hotel Hallo, richting 2 & 3   | 6-12 jaar | Assistente  |
 |----
-| Marleen Ariens | groep 4 t/m 8   | 6-12 jaar | Groepsleider  |
+| Marleen Ariens | groep 4 t/m 8   | 6-14 jaar | Groepsleider  |
 |----
-| Ina Oost  | groep 4 t/m 8   | 6-12 jaar | Assistente & woordenschat onderwijs  |
+| Ina Oost  | groep 4 t/m 8   | 6-14 jaar | Wordenschatonderwijs  |
 |=====
 {: rules="groups"}
  
+Meer informatie over het onderwijsteam is [hier](/team/).
+
 ## Bestuurszaken
 
 De school/stichting is in de staat Florida geregistreerd als een ‘corporation’ onder de naam Dutch Learning Center, Inc. Deze ' corporation' wordt geregistreerd als 'doing business as' ‘de Oranjebloesem’ (vergelijkbaar met het Nederlandse 'Handelend onder de naam').
  
 Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen:
 
+| Naam | Funktie |
+|:--------|--------:|
+| Caroline Sucaet | Voorzitter  |
+|----
+| Martin Jacobs | Secretaris  |
+|----
+| Henriette van den Berg | Penningmeester  |
+|----
+| Suzanne Hakema | Bestuurslid  |
+|----
+| Alexander Michiels | Bestuurslid  |
+|=====
+{: rules="groups"}
 
-	Voorzitter : Caroline Sucaet
-	Secretaris : Martin Jacobs
-	Penningmeester : Henriette van den Berg
-	Bestuurslid : Suzanne Hakema
-	Bestuurslid : Alexander Michiels
  
 De belangrijkste taak van het bestuur is het maken van beleid en het toezicht op de uitvoering daarvan. De directeur van de school, met zijn team, voert dit beleid uit. Dit is de ideale rolverdeling en ook de werkwijze die het bestuur van de 'corporation' in de toekomst wenselijk acht. Op dit moment is de school echter in een beginfase en om de druk op het onderwijsteam niet te groot te laten zijn zal het bestuur het onderwijsteam ondersteunen bij het uitvoeren van het beleid.
  
 De directrice blijft echter verantwoordelijk voor de uitvoering en inbedding van het onderwijsbeleid. Het is de bedoeling om over te gaan op een structuur waarbij het bestuur en dagelijkse leiding een striktere functiescheiding krijgen.
+
+##NOB
+
+De Oranjebloesem is sinds 2 jaar aangesloten bij de stichting [Nederlands Onderwijs in het Buitenland (vanaf hier verkort weergegeven als NOB)](http://www.nob.nl). 
+
+Dit betekent voor onze school dat we advies krijgen van het NOB op o.a. de volgende aspecten: 
+
+*	bestuurlijk/organisatorisch advies
+*	onderwijskundig advies
+*	financieel advies
+*	voorlichting 
+*	nieuws en informatie
+*	hulp bij invulling vacatures en
+*	geven van cursussen
+
+Het NOB heeft enorm bijgedragen aan de ontwikkeling van de school waar hij nu staat. Ook ten tijde van de onzekerheid over het voortbestaan van de subsidie heeft het NOB ons van goede adviezen voorzien. 
+
+We zijn het NOB, de NTC (Nederlandse Taal en Cultuur) scholen en alle instanties en particulieren erg dankbaar voor de lobby met verschillende partijen en het tekenen van de petitie. Dit heeft er namelijk voor gezorgd dat bijna de helft van de subsidie per kind voorlopig (3 jaar) is gewaarborgd. 

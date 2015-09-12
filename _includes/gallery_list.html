@@ -1,0 +1,5 @@
+<div class="list-gallery">
+    {% capture path %}gallery/{{ include.gallery }}{% endcapture %}
+    {% loopdir path:path match:"*.JPG" sort:"ordering" %}
+    {% endloopdir %}
+</div>

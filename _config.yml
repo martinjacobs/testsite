@@ -50,6 +50,10 @@ links:
 
 mapping:
     provider: google_static
+    zoom: 10
+    dimensions:
+        width: 300
+        height: 200
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

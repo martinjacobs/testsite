@@ -27,10 +27,18 @@ mapping:
 
 
 Het onderwijsteam voor de Oranjebloesem bestaat uit de volgende docenten.
- 
-##Marielle Mubarak 
+
+##Sandra Lissenburg 
 
 ######Groep 1/2:  kinderen, 4-6 jaar 
+
+Sandra Lissenburg is recent naar Zuid Florida verhuist met haar man en 2 kinderen, en is dit jaar begonnen as leerkracht bij de Oranjebloesem.
+
+In Nederland is Sandra werkzaam geweest als locatiemanager van verschillende kinderdagverblijven, buitenschoolse opvang en peuterzalen in Aalsmeer, Schiphol, Amstelveen en Amsterdam. Haar taak was het aansturen van de verschillende professionele teams op de kinderopvang locaties, daarnaast was mijn rol om de pedagogisch medewerkers op de groepen te ondersteunen bij opvoedkundige vragen. Naast een HBO pedagogische en management studie is Sandra ook getraind en opgeleid als video interactie begeleider. 
+
+##Marielle Mubarak 
+
+######Groep 3 
 
 Marielle Mubarak woont sinds 1992 in Zuid Florida. Na haar opleiding Havo en Schroevers is zij voor een jaar als aupair naar Zuid Florida gegaan. Weer terug in Nederland kon ze haar draai niet vinden en heeft ze besloten definitief te verhuizen naar Zuid Florida.
 
@@ -48,12 +56,18 @@ Virgilia is in 1975 afgestuurd aan de Pedagogische Academie Curaçao N.A.
 
 Ze is in dienst geweest bij het Openbaar Onderwijs op Curacao vanaf 1975-1996 en in het schooljaar 1996-1997 bij De Stichting Amsterdamse Samenwerkende Katholieke Basisscholen gevestigd te Amsterdam. 
 
-Vanaf  oktober 2002 is de familie woonachtig in Zuid Florida. Virgilia is getrouwd met Ansel en is moeder van 3 afgestudeerde kinderen. Virgilia staat sinds 1 augustus 2011 voor groep 3. Ze kijkt met enthousiasme uit naar weer een schooljaar bij de Oranjebloesem, waar ze samen met Lieke de nieuwe methode Hotel Hallo gaat invoeren.
+Vanaf  oktober 2002 is de familie woonachtig in Zuid Florida. Virgilia is getrouwd met Ansel en is moeder van 3 afgestudeerde kinderen. Virgilia is al sinds 1 augustus 2011 leerkracht bij de Oranjebloesem.
  
+##Lieke Heye
+
+######Groep 5
+Lieke is sinds vorig jaar leerkracht bij de Oranjebloesem. Na het verhuizen naar Amerika, is ze, om haar Nederlandse achtergrond toch een beetje te behouden is ze  zoek gegaan naar scholen met een Nederlandse insteek en zo kwam ze bij de Oranjebloesem uit. 
+
+Andere hobby's naast reizen zijn lezen, acteren en vooral heel veel buiten activiteiten doen. Ze heeft er ontzettend veel zin in om  er dit jaar een leuk, gezellig en leerzaam jaar van te maken.
 
 ##Marleen Ariens
 
-######Directrice en hoofdleerkracht groep 4 t/m 8 
+######Directrice en leerkracht groep 6 en 7 
 Marleen is de oprichtster van de Oranjebloesem. Marleen is getrouwd met Bart en moeder van 2 kinderen. Marleen en haar gezin zijn 9 jaar geleden naar Weston verhuisd. 
 De kinderen zijn haar inspiratie geweest voor het opstarten van de school in 2010. 
 
@@ -61,21 +75,11 @@ Marleen is geboren en getogen in Noord-Brabant. Ze heeft planologie en volkshuis
 
 Ze kijkt terug op vier  zeer geslaagde jaren van de Oranjebloesem en kijkt uit naar het nieuwe jaar. 
  
-
 ##Ina Oost
 
-######Groep 4 t/m 8 woordenschatonderwijs
+######Invalskracht groep 5, 6 en 7
 Ina is eerst woonachtig geweest in New York en is met haar echtgenoot in de tachtiger jaren naar Zuid Florida verhuisd. Naast het vele reizen voor haar werk in de toeristen branche had Ina een part-time baan bij een taleninstituut voor het onderwijs in Duits en Nederlands aan Amerikaanse zakenmensen die werden overgeplaatst naar Europa.
 
-De leerkrachten-positie bleek een natuurlijke roeping. Met een Masters Degree in International Studies/Social Sciences heeft ze intussen een 10-jarige ervaring in het onderwijs bij Broward County's Public School System.
+De leerkrachten-positie bleek een natuurlijke roeping. Met een Masters Degree in International Studies/Social Sciences heeft ze intussen een 10-jarige ervaring in het onderwijs bij Broward County’s Public School System.
 
-Uit puur idealisme en met enthousiasme heeft Ina het afgelopen jaar de kinderen heel veel Nederlands geleerd en ook dit jaar  kijkt ze ernaar uit om de Nederlandse taal aan onze jonge generatie  bij de Oranjebloesem te onderwijzen!
-
-##Lieke Heye
-
-######Assistente groep Virgilia Aiken
-Lieke woont sinds 8 maanden in Zuid-Florida en gaat vanaf september samen met Virgilia les geven.Al sinds dat ze een klein meisje was wilde ze in Amerika wonen. In 2006 heeft ze een rondreis met familie gemaakt en sindsdien is ze niet meer weg te slaan uit dit land. Ze is van Amerika gaan houden en wil hier absoluut ook nog een tijdje blijven.
-
-Om haar Nederlandse achtergrond toch een beetje te behouden is ze  zoek gegaan naar scholen met een Nederlandse insteek en zo kwam ze bij de Oranjebloesem uit. 
-
-Andere hobby's naast reizen zijn lezen, acteren en vooral heel veel buiten activiteiten doen. Ze heeft er ontzettend veel zin in om  er dit jaar een leuk, gezellig en leerzaam jaar van te maken.
+Uit puur idealisme en met enthousiasme heeft Ina het afgelopen jaar de kinderen heel veel Nederlands geleerd en ook dit jaar kijkt ze ernaar uit om de Nederlandse taal aan onze jonge generatie bij de Oranjebloesem te onderwijzen!

@@ -13,6 +13,9 @@ image:
 mapping:
     latitude: 26.078351
     longitude: -80.265830
+mapping2:
+    latitude: 26.08355
+    longitude: -80.312540
 ---
 
 
@@ -39,14 +42,38 @@ Een gemotiveerd team van leerkrachten voorziet in hoogwaardige lessen voor prima
 
 Wij beseffen dat de sfeer waarin een kind opgroeit van groot belang is om een volwaardig mens te worden. Het is daarom belangrijk dat de leerlingen bij ons onderwijs kunnen volgen in een vriendelijke en veilige omgeving, waar orde en regelmaat een rol spelen. Pas als een kind zich veilig voelt, kan het zich ontwikkelen. 
 
-## Locatie
-Multi Purpose Center Davie
-3801 South Pine island Road
-Davie, FL 33328
+## Locaties
+<center>
 {% render_map %}
+</center>
+<center>
+<i>
+Multi Purpose Center Davie
+<br/>
+3801 South Pine island Road
+<br/>
+Davie, FL 33328
+</i>
+</center>
+<br/>
+<center>
+{% render_map2 %}
+</center>
+<center>
+<i>
+Sjomannskirken
+<br/>
+2950 South Flamingo Road
+<br/>
+Davie, FL 33328
+</i>
+</center>
+
 
 ## Lestijden
-De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm.  
+De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm voor lessen in the Multi Purpose Center Davie. 
+
+De lessen in Sjomannskirken vinden plaats van 10.00 am tot 1.00 pm.
 
 
 De school volgt de vakantiekalender van Broward County.  
@@ -54,22 +81,22 @@ De school volgt de vakantiekalender van Broward County.
 
 Er zijn geen lessen op de volgende dagen:
  
-	30 november: weekend van Thanksgiving
-	28 december: kerstvakantie
-	29 maart: Springbreak
-	24 mei: weekend Memorial Day
+	28 november: weekend van Thanksgiving
+	26 december en 2 januari: kerstvakantie
+	26 maart: Springbreak
+	28 mei: weekend Memorial Day
   
   
-De laatste lesdag is gepland op **14 juni**.  
+De laatste lesdag is gepland op **11 juni**.  
 
 
 Ook zal er een aantal middagen een cultuurmiddag georganiseerd worden. Voorlopig zijn die vastgesteld op: 
  
-	5 oktober: kinderboekenweek
-	6 december: sinterklaas
-	februari/maart: winteractiviteit
-	26 april: koningsdag
-    14 juni: laatste schooldag
+	17 oktober: kinderboekenweek
+	5 december: sinterklaas
+	20 februari: winteractiviteit
+	30 april: koningsdag
+    11 juni: laatste schooldag
 
 ## De onderwijsgroepen
 De activiteiten voor de leerlingen zijn gebaseerd op de kerndoelen voor Nederlandse taal zoals die zijn opgesteld door het Nederlandse ministerie van Onderwijs, Cultuur en Wetenschappen. De kerndoelen zijn streefdoelen voor wat leerlingen moeten kennen en kunnen aan het eind van de basisschool.  
@@ -88,30 +115,31 @@ Wij proberen het onderwijs zo in te richten, dat er rekening wordt gehouden met 
 
 * **Richting 3:** Deze leerlingen leren Nederlands als vreemde taal. 
 
-    
-    
-De school heeft op dit moment 3 groepen:
+De school heeft op dit moment 5 groepen:
 
 * Groep 1 en 2, kinderen, 4-6 jaar
+* Groep 3, kinderen, 6-7 jaar
 * Groep Hotel Hallo, richting 2 & 3 kinderen
-* Groep 4 t/m 8: Nederlandstalige kinderen, 7-14 jaar 
+* Groep 5, nederlandstalige kinderen, 7-8 jaar 
+* Groep 6 en 7, nederlandstalige kinderen, 8-10 jaar 
   
 In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/schooljaar-2014-2015-weer-begonnen/) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
 
 
 ##Het onderwijsteam
 
-| Naam | Groep | Kinderen | Funktie |
-|:--------|:-------:|--------:|--------:|
-| Marielle Mubarak   | groep 1/2   | 4-6 jaar | Groepsleider  |
+| Naam | Groep | Funktie |
+|:--------|:-------:|------:|
+| Sandra Lissenburg   | groep 1 & 2   | Groepsleider  |
 |----
-| Virgilia Aiken   | groep Hotel Hallo, richting 2 & 3   | 6-12 jaar | Groepsleider  |
+| Marielle Mubarak   | groep 3   | Groepsleider  |
 |----
-| Lieke Heye   | groep Hotel Hallo, richting 2 & 3   | 6-12 jaar | Assistente  |
+| Virgilia Aiken   | groep Hotel Hallo, richting 2 & 3   | Groepsleider  |
 |----
-| Marleen Ariens | groep 4 t/m 8   | 6-14 jaar | Groepsleider  |
+| Lieke Heye   | groep 5   | Groepsleider  |
 |----
-| Ina Oost  | groep 4 t/m 8   | 6-14 jaar | Wordenschatonderwijs  |
+| Marleen Ariens | groep 6 & 7   |  Groepsleider  |
+|----
 |=====
 {: rules="groups"}
  
@@ -133,7 +161,7 @@ Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen
 |----
 | Suzanne Hakema | Bestuurslid  |
 |----
-| Alexander Michiels | Bestuurslid  |
+| Arnaud Mens | Bestuurslid  |
 |=====
 {: rules="groups"}
 
@@ -144,7 +172,7 @@ De directrice blijft echter verantwoordelijk voor de uitvoering en inbedding van
 
 ##NOB
 
-De Oranjebloesem is sinds 2 jaar aangesloten bij de stichting [Nederlands Onderwijs in het Buitenland (vanaf hier verkort weergegeven als NOB)](http://www.nob.nl). 
+De Oranjebloesem is aangesloten bij de stichting [Nederlands Onderwijs in het Buitenland](http://www.nob.nl). 
 
 Dit betekent voor onze school dat we advies krijgen van het NOB op o.a. de volgende aspecten: 
 
@@ -156,6 +184,4 @@ Dit betekent voor onze school dat we advies krijgen van het NOB op o.a. de volge
 *	hulp bij invulling vacatures en
 *	geven van cursussen
 
-Het NOB heeft enorm bijgedragen aan de ontwikkeling van de school waar hij nu staat. Ook ten tijde van de onzekerheid over het voortbestaan van de subsidie heeft het NOB ons van goede adviezen voorzien. 
-
-We zijn het NOB, de NTC (Nederlandse Taal en Cultuur) scholen en alle instanties en particulieren erg dankbaar voor de lobby met verschillende partijen en het tekenen van de petitie. Dit heeft er namelijk voor gezorgd dat bijna de helft van de subsidie per kind voorlopig (3 jaar) is gewaarborgd. 
+Het NOB heeft enorm bijgedragen aan de ontwikkeling van de school waar hij nu staat.  

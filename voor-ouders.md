@@ -138,9 +138,9 @@ Spelletjes om samen te doen:
 
 ## Schoolgids
 
-Via onderstaande link hebt u toegang tot de schoolgids 2014/2015. Hierin vindt u alle belangrijke informatie betreffende dit schooljaar.
+Via onderstaande link hebt u toegang tot de schoolgids 2015/2016. Hierin vindt u alle belangrijke informatie betreffende dit schooljaar.
 
-[Schoolgids 2014 - 2015]({{ site.url }}/leerlingen/#Algemene%20Informatie/) 
+[Schoolgids 2015 - 2016]({{ site.url }}/leerlingen/#Algemene%20Informatie/) 
 
 ## Klachten procedure
 Onze school heeft een klachtenregeling. Wanneer een ouder of een leerling een klacht heeft over de school of over een medewerker van de school dan kan hier gebruik van worden gemaakt. Uitgangspunt van de klachtenregeling is dat klachten, problemen, vragen en dergelijke in eerste instantie worden aangekaart bij degene die direct met de kwestie te maken heeft. 

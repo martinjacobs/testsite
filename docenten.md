@@ -90,35 +90,14 @@ In de onderstaande folders is het onderwijsmateriaal voor de Oranjebloesem te vi
           } else {
             info.innerHTML = 'Logged in';
             
+	    AWS.config.credentials = new AWS.Credentials(response.data.access_id, response.data.secret_key, response.data.token);
            
-                var params = {
-          identityId: response.data.identityId,
-          Logins: {
-            'cognito-identity.amazonaws.com': response.data.token
-          }
-        };
-             AWS.config.credentials = new AWS.CognitoIdentityCredentials({
-       IdentityPoolId: 'us-east-1:5a6a1312-6c2b-4e53-8ca0-cda6139f4f46', params
-    });
-    
-            var creds = AWS.config.credentials;
-            creds.params.IdentityId = response.data.identityId;
-              creds.params.Logins = {
-               'cognito-identity.amazonaws.com': response.data.token
-            };
-            creds.expired = true;
-            //AWS.config.credentials.refresh();
-            var id = AWS.config.credentials.identityId;
-            console.log("Cognito Identity Id:", id);
-            
-           
-            bucket = new AWS.S3({params: {Bucket: AWS_BucketName}});
+	    AWS.config.credentials.expired=true;
+//            bucket = new AWS.S3({params: {accessKeyId: response.data.access_id, secretAccessKey : response.data.secret_key, sessionToken: response.data.token, Bucket: AWS_BucketName}});
+		bucket = new AWS.S3({params: {Bucket: AWS_BucketName}});
            listObjects(AWS_Prefix);
            $.unblockUI();
           }
- //   }).catch( function(error){
-        //This is where you would put an error callback
-//        console.log(error);
     });
 		}
   });

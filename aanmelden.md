@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /aanmelden/
+permalink: /aanmelden/index.html
 title: Aanmelden of vragen?
 tagline: 
 tags: 

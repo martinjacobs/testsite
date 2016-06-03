@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team/
+permalink: /team/index.html
 title: Het onderwijsteam
 tagline: Het onderwijsteam
 tags: 

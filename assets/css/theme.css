@@ -7,6 +7,7 @@ img {
 
 ul {
    list-style: none;
+   overflow: hidden;
 }
 
 ul li {
@@ -52,6 +53,43 @@ div.breadcrumb {
   border-bottom: 1px solid #eee;
 }
 
+div.modal {
+    padding: 25px 25px 25px 25px;
+    max-width: 500px;
+    margin: auto;   
+}
+
+div.modal style {
+    width: 80%
+}
+
+div.modal button {
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 12px;
+      background: #76787a;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+}
+
+div.modal button:hover {
+      background: #666562;
+      text-decoration: none;
+}
+
+div.container button {
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 12px;
+      background: #76787a;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+}
+
+div.container button:hover {
+      background: #666562;
+      text-decoration: none;
+}
 
 div.breadcrumb a {
 	color: #16B;
@@ -63,7 +101,6 @@ div.breadcrumb a:hover {
 #status {
 	padding: 5px 0px 5px 0px;
 	height: 20px;
-	color: #fff;
 }
 
 #statusimg {
@@ -98,3 +135,6 @@ div.breadcrumb a:hover {
 	opacity: 0.2; /* also -moz-opacity, etc. */
 	z-index: 10;
 }
+
+.left { float:left; width:90%; clear:left; }
+.right { float:right; width:10%; clear:right }

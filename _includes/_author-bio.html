@@ -3,7 +3,7 @@
 {% elsif site.owner.avatar contains 'https://' %}
 	<img src="{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
 {% else %}
-	<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
+	<img src="/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
 {% endif %}
 <h3>{{ site.owner.name }}</h3>
 <p>{{ site.owner.bio }}</p>
@@ -31,7 +31,7 @@ Weston, FL 33327
 <p>
 <b>Sjomannskirken</b> - Zaterdagochtend van 10.00 tot 1.00 uur
 </p>
-<a href="{{ site.url }}/aanmelden/" class="fa fa-envelope fa-lg">Vragen?</a>
+<a href="/aanmelden/index.html" class="fa fa-envelope fa-lg">Vragen?</a>
 
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
 {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}

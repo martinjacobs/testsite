@@ -42,7 +42,7 @@ function listMoreObjects(marker, prefix, countFiles, countFolders) {
 	$('#status').html('<div id="statusimg"></div>Loading...');
 	bucket.listObjects({MaxKeys: AWS_MaxKeys, Marker: marker, Prefix : prefix, Delimiter : '/' },function (err, data) {
 		if (err) {
-			$('#status').html('<img src="/assets/images/exclamation-red.png"> Could not load objects from S3');
+			$('#status').html('<img src="/assets/images/exclamation-red.png"> Could not load objects');
 		} else {
 			var truncated = data.IsTruncated;
 			var nextMarker = data.NextMarker;
@@ -62,7 +62,7 @@ function listObjects(prefix) {
 	bucket.listObjects({MaxKeys: AWS_MaxKeys, Prefix : prefix, Delimiter : '/' },function (err, data) {
 		if (err) {
             console.log('could not retrieve objects' + err);
-			$('#status').html('<img src="/assets/images/exclamation-red.png"> Could not load objects from S3');
+			$('#status').html('<img src="/assets/images/exclamation-red.png"> Could not load objects');
 		} else {
 			//Load folders...
 			//Set breadcrumbs..
@@ -142,11 +142,11 @@ function renderObjects(contents, countFolders, currentCountFiles, prefix, trunca
 		}
 	}
 	if (truncated) {
-		$('#status').html('Loaded : ' + countFolders + ' folder(s), showing ' + countFiles + ' item(s) from S3, <a href="javascript:scrollToBottomListObjects()"><img src="/assets/images/arrow-270.png">Go to the bottom of the list to load more items.</a>');
+		$('#status').html('Loaded : ' + countFolders + ' folder(s), showing ' + countFiles + ' item(s), <a href="javascript:scrollToBottomListObjects()"><img src="/assets/images/arrow-270.png">Go to the bottom of the list to load more items.</a>');
 		icon = '<img src="/assets/images/plus-circle.png"/>'
 		$('#objects').append('<li id="moreobjects"><a href="javascript:listMoreObjects(\'' + nextMarker + '\',\'' + prefix + '\',' + countFiles + ',' + countFolders + ')">' + icon + '<span>Get more items...</span></a></li>');
 	} else {
-		$('#status').html('Loaded : ' + countFolders + ' folder(s), ' + countFiles + ' item(s) from S3');
+		$('#status').html('Loaded : ' + countFolders + ' folder(s), ' + countFiles + ' item(s)');
 	}			
 }
 

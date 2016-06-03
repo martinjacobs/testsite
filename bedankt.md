@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /bedankt/
+permalink: /bedankt/index.html
 title: Meer informatie voor het aanmelden
 tagline: 
 tags: 

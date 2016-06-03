@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: /nieuws/
+permalink: /nieuws/index.html
 title: Laatste Nieuws
 tagline: het laatste nieuws
 tags: [blog]

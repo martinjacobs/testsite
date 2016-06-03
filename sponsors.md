@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sponsors/
+permalink: /sponsors/index.html
 title: Sponsors
 description: "Onze Sponsors."
 tags: [Sponsors, School, Nederland]
@@ -56,6 +56,8 @@ image:
 * Familie Brollman
 
 * Familie Maes
+
+* Alex Michaels
 
 ###Lesmateriaal/Boeken:
 

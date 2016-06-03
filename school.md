@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /school/
+permalink: /school/index.html
 title: Informatie over de school
 tagline: Informatie over de school
 tags: 
@@ -123,7 +123,7 @@ De school heeft op dit moment 5 groepen:
 * Groep 5, nederlandstalige kinderen, 7-8 jaar 
 * Groep 6 en 7, nederlandstalige kinderen, 8-10 jaar 
   
-In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/schooljaar-2014-2015-weer-begonnen/) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
+In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/schooljaar-2014-2015-weer-begonnen/index.html) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
 
 
 ##Het onderwijsteam
@@ -143,7 +143,7 @@ In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/sch
 |=====
 {: rules="groups"}
  
-Meer informatie over het onderwijsteam is [hier](/team/).
+Meer informatie over het onderwijsteam is [hier](/team/index.html).
 
 ## Bestuurszaken
 

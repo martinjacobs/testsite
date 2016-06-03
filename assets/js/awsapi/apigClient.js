@@ -1,5 +1,5 @@
 /*
- * Copyright 2010-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
  * You may not use this file except in compliance with the License.
@@ -52,18 +52,10 @@ apigClientFactory.newClient = function (config) {
     }
 
     
-    var endpoint = 'https://6wcrhtsiq8.execute-api.us-east-1.amazonaws.com/production';
-    var parser = document.createElement('a');
-    parser.href = endpoint;
-
-    //Use the protocol and host components to build the canonical endpoint
-    endpoint = parser.protocol + '//' + parser.host;
-
-    //Store any path components that were present in the endpoint to append to API calls
-    var pathComponent = parser.pathname;
-    if (pathComponent.charAt(0) !== '/') { // IE 9
-        pathComponent = '/' + pathComponent;
-    }
+    // extract endpoint and path from url
+    var invokeUrl = 'https://6wcrhtsiq8.execute-api.us-east-1.amazonaws.com/production';
+    var endpoint = /(^https?:\/\/[^\/]+)/g.exec(invokeUrl)[1];
+    var pathComponent = invokeUrl.substring(endpoint.length);
 
     var sigV4ClientConfig = {
         accessKey: config.accessKey,
@@ -89,6 +81,42 @@ apigClientFactory.newClient = function (config) {
 
     var apiGatewayClient = apiGateway.core.apiGatewayClientFactory.newClient(simpleHttpClientConfig, sigV4ClientConfig);
     
+    
+    
+    apigClient.bestuurLoginPost = function (params, body, additionalParams) {
+        if(additionalParams === undefined) { additionalParams = {}; }
+        
+        apiGateway.core.utils.assertParametersDefined(params, [], ['body']);
+        
+        var bestuurLoginPostRequest = {
+            verb: 'post'.toUpperCase(),
+            path: pathComponent + uritemplate('/bestuur/login').expand(apiGateway.core.utils.parseParametersToObject(params, [])),
+            headers: apiGateway.core.utils.parseParametersToObject(params, []),
+            queryParams: apiGateway.core.utils.parseParametersToObject(params, []),
+            body: body
+        };
+        
+        
+        return apiGatewayClient.makeRequest(bestuurLoginPostRequest, authType, additionalParams, config.apiKey);
+    };
+    
+    
+    apigClient.bestuurLoginOptions = function (params, body, additionalParams) {
+        if(additionalParams === undefined) { additionalParams = {}; }
+        
+        apiGateway.core.utils.assertParametersDefined(params, [], ['body']);
+        
+        var bestuurLoginOptionsRequest = {
+            verb: 'options'.toUpperCase(),
+            path: pathComponent + uritemplate('/bestuur/login').expand(apiGateway.core.utils.parseParametersToObject(params, [])),
+            headers: apiGateway.core.utils.parseParametersToObject(params, []),
+            queryParams: apiGateway.core.utils.parseParametersToObject(params, []),
+            body: body
+        };
+        
+        
+        return apiGatewayClient.makeRequest(bestuurLoginOptionsRequest, authType, additionalParams, config.apiKey);
+    };
     
     
     apigClient.docentLoginPost = function (params, body, additionalParams) {

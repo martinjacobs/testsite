@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /leerlingen/
+permalink: /leerlingen/index.html
 title: Informatie & huiswerk voor leerlingen
 tagline: 
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /docenten/index.html
-title: Informatie & documenten voor docenten
+permalink: /bestuur/index.html
+title: Informatie & documenten voor bestuur
 tagline: 
 tags: 
 modified: 1-4-2016
@@ -10,15 +10,19 @@ comments: false
 
 
 
-In de onderstaande folders is het onderwijsmateriaal voor de Oranjebloesem te vinden.
+In de onderstaande folders is het bestuurs materiaal voor de Oranjebloesem te vinden.
 <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//malsup.github.io/jquery.blockUI.js"></script>
 
 <script src="//sdk.amazonaws.com/js/aws-sdk-2.1.28.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/assets/css/theme.css">
-<script src="/assets/js/config_docent.js"></script>	
-<script src="/assets/js/s3bb_docent.js"></script>	
+
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<script src="/assets/js/config_bestuur.js"></script>	
+<script src="/assets/js/s3bb_bestuur.js"></script>	
+
+    
 <script type="text/javascript" src="/assets/js/awsapi/lib/axios/dist/axios.standalone.js"></script>
 <script type="text/javascript" src="/assets/js/awsapi/lib/CryptoJS/rollups/hmac-sha256.js"></script>
 <script type="text/javascript" src="/assets/js/awsapi/lib/CryptoJS/rollups/sha256.js"></script>
@@ -33,30 +37,56 @@ In de onderstaande folders is het onderwijsmateriaal voor de Oranjebloesem te vi
 <script type="text/javascript" src="/assets/js/awsapi/apigClient.js"></script>
 <script type="text/javascript" src="/assets/js/awsapi/promise.min.js"></script>
 
-<div id="overlay"></div>
-<div id="maincontent">
-    <div id="header">
-        <div id="breadcrumb" class="breadcrumb"></div> 
-    </div>
-    <div id="contents">
-        <div id="elements">
-            <ul id="objects"></ul>
-        </div>
-    </div>
-    <div id="subheader">
-        <div id="status"></div>
-    </div>
-</div>
-<div id="loginbox" style="display:none">
-    <div id="info">
-      Login
-    </div>
-            <p><label>Username:</label><input type="text" id="email" size="20"/></p>
-            <p><label>Password:</label><input type="password" id="password" size="20" /></p>
-            <button type="submit" id="login-button">Login</button>
-</div>
+ <div class="section">
+        <div class="container">
+            <button type="button" id="uploadFile"> <i class="fa fa-2x fa-fw fa-upload"></i>
+                                <br> Upload File</button>
+            <button type="button" id="newFolder"> <i class="fa fa-2x fa-fw fa-folder"></i>
+                                <br> New Folder</button>
+            <div class="row">
+
+                <div id="maincontent">
+                    <div id="header">
+                        <div id="breadcrumb" class="breadcrumb"></div>
+                    </div>
+                    <div id="contents" >
+                        <div id="elements">
+                            <ul id="objects" ></ul>
+                        </div>
+                    </div>
+                    <br/>
+                    <div id="subheader" >
+                        <div id="status"></div>
+                        <div id="results"></div>
+                    </div>
+                </div>
+            </div>
         
-        
+
+            <div id="modaluploadbox" style="display:none" class="modal">
+                        <p><label>Upload File:</label><input type="file" class="form-control" placeholder="upload file" id="input" /></p>
+                        <button type="submit" id="cancelupload-button">Cancel</button> <button type="submit" id="upload-button">Save</button>
+            </div>
+            
+            <div id="modalfolderbox" style="display:none" class="modal">
+                        <p><label>Folder Name:</label><input type="text" id="foldername" size="60"/></p>
+                        <button type="submit" id="cancelfolder-button">Cancel</button> <button type="submit" id="folder-button">Save</button>
+            </div>
+            <div id="modaldeletebox" style="display:none" class="modal">
+                        <p><label>Delete</label><span id="deletefilename"></span>?</p>
+                        <button type="submit" id="canceldelete-button">Cancel</button> <button type="submit" id="delete-button">Delete</button>
+            </div>
+            
+            <div id="loginbox" style="display:none" class="modal">
+                <div id="info">
+                  Login
+                </div>
+                        <p><label>Username:</label><input type="text" id="email" size="20"/></p>
+                        <p><label>Password:</label><input type="password" id="password" size="20" /></p>
+                        <button type="submit" id="login-button">Login</button>
+            </div>
+      </div>  <!--container --> 
+ </div> <!--section-->       
 
 <script>
 
@@ -82,7 +112,7 @@ In de onderstaande folders is het onderwijsmateriaal voor de Oranjebloesem te vi
    AWS.config.region = AWS_Region;
    var apigClient = apigClientFactory.newClient();
 
-    apigClient.docentLoginPost({}, JSON.stringify(input), {})
+    apigClient.bestuurLoginPost({}, JSON.stringify(input), {})
     .then(function(response){
         //This is where you would put a success callback
         console.log(response);
